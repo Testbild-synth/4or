@@ -5,7 +5,7 @@ This module was commissioned by Krach der Roboter as a passive performance tool/
 It is basically 4 inputs that you can use to combine logical signals. Using diodes, the outputs function as logical sums (or OR combiners) of the
 input signals. It is meant to be as easy as possible to serve as an entry-level kit for building during trade fairs, workshops etc.
 
-## STATUS: PCB NOT VERIFIED - We have a working stripboard version but the PCB will take some time to verify
+## STATUS: v1.1 verified working!
 
 ## Hardware
 <img src="images/panel.jpeg" width="20%" height="20%"> <img src="images/circuit.jpeg" width="20%" height="20%"> 
